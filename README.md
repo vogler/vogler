@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Vogler's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vogler&show_icons=true&theme=github_dark_dimmed&count_private=true)](https://github.com/vogler)
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vogler&theme=github_dark_dimmed&layout=compact&exclude_repo=ArduinoSmokerInterface,ChipEi&hide=GDScript,Objective-C)](https://github.com/vogler)
+[![Vogler's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vogler&theme=github_dark_dimmed&layout=compact&display_format=percent&langs_count=10)](https://wakatime.com/@vogler)
