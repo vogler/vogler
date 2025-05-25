@@ -23,8 +23,8 @@ Here are some ideas to get you started:
     <img height=200 alt="Languages with the highest count for github.com/vogler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vogler&theme=github_dark_dimmed&layout=compact&card_width=380&size_weight=0.5&count_weight=0.5&langs_count=10&custom_title=Top%20Languages%20(50%2F50%20LOC%2Frepos)" /></a>
 </div>
 
-<!-- https://github.com/anuraghazra/github-readme-stats#github-extra-pins -->
+<a href="https://wakatime.com/@vogler">
+  <img height=200 align="center" alt="Vogler's WakaTime stats (last year)" src="https://github-readme-stats.vercel.app/api/wakatime?username=vogler&theme=github_dark_dimmed&layout=compact&display_format=percent&langs_count=10" />
+</a>
 
-<!-- <a href="https://wakatime.com/@vogler">
-  <img height=178 align="center" alt="Vogler's WakaTime stats (last year)" src="https://github-readme-stats.vercel.app/api/wakatime?username=vogler&theme=github_dark_dimmed&layout=compact&display_format=percent&langs_count=10" />
-</a> -->
+<!-- https://github.com/anuraghazra/github-readme-stats#github-extra-pins -->
